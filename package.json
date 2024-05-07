@@ -19,7 +19,8 @@
     "webpack-cli": "^5.1.4"
   },
   "scripts": {
-    "webpack-watch": "webpack --watch"
+    "build": "webpack",
+    "build-watch": "webpack --watch"
   },
   "author": "",
   "license": "ISC"

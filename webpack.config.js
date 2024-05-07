@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-    mode: 'development',
+    mode: 'production',
     entry: './app.js', // Your main file with .js or .jsx extension
     output: {
         path: path.resolve(__dirname), // Output path
